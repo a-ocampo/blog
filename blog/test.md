@@ -1,6 +1,6 @@
 ---
-path: /blog/test
-date: 2018-01-11T00:00:00-05:00
-title: Test post
+path: /blog/welcome
+date: 2019-03-13T04:00:00.000Z
+title: Welcome to my blog
 ---
-Your blog post here
+Browse, chill, enjoy
