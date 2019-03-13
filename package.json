@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-boiler",
+  "name": "blog",
   "private": true,
   "description": "",
   "version": "0.1.0",
   "license": "MIT",
   "author": "William L <w-lindvall@outlook.com>",
   "keywords": [
-    "website"
+    "blog"
   ],
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Hehe...\""

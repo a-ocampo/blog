@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: shwilliam/gatsby-boiler
+  repo: a-ocampo/blog
 
 media_folder: static/assets
 public_folder: assets

@@ -26,7 +26,7 @@ const Layout = ({ children }) => (
           {children}
         </main>
         <footer className="tr pb2 pt5">
-          <a className="b link dark-gray hover-hot-pink" href="http://shwilliam.github.io/" target="_blank" rel="noopener noreferrer">@shwilliam</a>
+          <a className="b link dark-gray hover-hot-pink" href="https://www.linkedin.com/in/alexis-o-92297598/" target="_blank" rel="noopener noreferrer">@a-ocampo</a>
         </footer>
       </div>
     )}

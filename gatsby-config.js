@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Boiler`,
+    title: `Blog`,
     description: ``,
-    author: `@shwilliam`
+    author: `a-ocampo`
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
