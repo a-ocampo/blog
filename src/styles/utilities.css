@@ -2,3 +2,7 @@
   position: -webkit-sticky;
   position: sticky;
 }
+
+.min-w-small {
+  min-width: 320px;
+}

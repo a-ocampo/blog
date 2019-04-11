@@ -15,7 +15,7 @@ const BlogPage = ({ data }) => {
             const { excerpt, frontmatter } = node
             return (
               <li key={frontmatter.path} className="mv5-l mv4">
-                <Link to={frontmatter.path} className="link dark-gray hover-hot-pink mb3">
+                <Link to={frontmatter.path} className="link dim mb3">
                   <div className="fw6 pr3">
                     {frontmatter.title}
                   </div>

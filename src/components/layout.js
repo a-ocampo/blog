@@ -20,13 +20,13 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <div className="sans-serif near-black mw9 center ph6-l ph4">
+      <div className="sans-serif green mw9 center ph6-l ph4 ba b--green bw3 min-vh-100 min-w-small">
         <Header siteTitle={data.site.siteMetadata.title} />
-        <main role="main">
+        <main role="main" className="near-black f4 f3-m f3-l lh-copy mw8 center">
           {children}
         </main>
-        <footer className="tr pb2 pt5">
-          <a className="b link dark-gray hover-hot-pink" href="https://www.linkedin.com/in/alexis-o-92297598/" target="_blank" rel="noopener noreferrer">@a-ocampo</a>
+        <footer className="tr pb2 pt5 mw8 center">
+          <a className="b link dim" href="https://www.linkedin.com/in/alexis-o-92297598/" target="_blank" rel="noopener noreferrer">@a-ocampo</a>
         </footer>
       </div>
     )}
